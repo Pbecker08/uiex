@@ -44,7 +44,7 @@
 		display: block;
 		width: 25px;
 		height: 3px;
-		background: #fab915;
+		background: #FFD700;
 		margin: auto;
 		margin-bottom: 4px;
 		transition: all 400ms linear;
@@ -73,7 +73,7 @@
         z-index: -1;
     }
     .navbar .menu_nav .nav-item.dropdown.show:after,.navbar .menu_nav .nav-item.dropdown:focus:after{
-        color: #52c5fd;
+        color: #FFD700;
         outline: none;
     }
 	.navbar .menu_nav .nav-item + li {
@@ -91,7 +91,7 @@
 	}
 	.banner_area .position {
 		position: relative;
-		background: #04091e;
+		background: #111111;
 		bottom: 0px;
 	}
 	.banner_area {
