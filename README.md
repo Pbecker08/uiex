@@ -27,7 +27,7 @@ HTML · CSS · Adobe (tratamento de imagens)
 ## Autores
 
 Projeto em dupla, desenvolvido por
-[Pedro Henrique Becker](https://github.com/Pbecker08) e [NOME DO COLEGA](LINK).
+[Pedro Henrique Becker](https://github.com/Pbecker08) e Luiz Fernando Divino.(LINK).
 
 ## Nota
 
